@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="pie_chart_size">100dp</dimen>
+
+    <dimen name="space">8dp</dimen>
+    <dimen name="double_space">16dp</dimen>
+</resources>

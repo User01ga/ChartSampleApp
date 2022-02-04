@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#80FFFFFF</color>
+    <color name="text_green">#803DDC84</color>
+
+    <color name="clothes">@color/purple_500</color>
+    <color name="cafe">@color/purple_200</color>
+    <color name="farmacy">@color/purple_700</color>
+    <color name="fastfood">@color/teal_200</color>
+    <color name="grocery">@color/teal_700</color>
+    <color name="income">#3DDC84</color>
+
+    <array name="expense_colors">
+        <item>@color/teal_200</item>
+        <item>@color/teal_700</item>
+        <item>@color/purple_200</item>
+        <item>@color/purple_500</item>
+        <item>@color/purple_700</item>
+    </array>
+</resources>

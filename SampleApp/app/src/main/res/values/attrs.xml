@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="PieChart">
+        <attr name="text" format="string" />
+        <attr name="textSize" format="dimension" />
+        <attr name="textColor" format="color" />
+        <attr name="strokeWidth" format="dimension"/>
+        <attr name="pieColors" format="reference"/>
+    </declare-styleable>
+
+    <declare-styleable name="LineChart">
+        <attr name="roundCorner" format="boolean" />
+        <attr name="isVertical" format="boolean"/>
+        <attr name="lineColors" format="reference"/>
+    </declare-styleable>
+</resources>

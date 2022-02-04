@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SampleApp</string>
+
+    <string name="expenses">Expenses</string>
+
+    <string name="text_pie_legend_title">Pie legend</string>
+    <string name="text_line_legend_title">Line legend</string>
+</resources>
